@@ -1,4 +1,4 @@
-# Software de questionário genérico
+# Software de questionário genérico completo
 
 <p>Esta é uma aplicação web para criação e preenchimento de questionários dinâmicos (pesquisas de campo).<br>
 Através deste software é possível tanto cadastrar e gerenciar respostas via login de administrador, como respondê-las de maneira anônima.</p>
