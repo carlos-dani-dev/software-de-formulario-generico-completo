@@ -12,7 +12,7 @@ Através deste software é possível tanto cadastrar e gerenciar respostas via l
 - interface web com templates Jinja2.
 - alta disponibilidade via alocação em instância única de EC2 na AWS (ainda sem Load Balancer).
 
-### Tecnologias utilizadas:
+### Tecnologias utilizadas
 
 <table>
     <tr>
@@ -43,7 +43,9 @@ Através deste software é possível tanto cadastrar e gerenciar respostas via l
         <td>
             <a href="https://www.sqlalchemy.org/">SQLAlchemy</a>
         </td>
-        <td>Framework Python ideal para manipulação do banco de dados. O SQLAlchemy é a ORM mais utilizada em linguagem Python.</td>
+        <td>
+			Framework Python ideal para manipulação do banco de dados. O SQLAlchemy é a ORM mais utilizada em linguagem Python.
+		</td>
     </tr>
     <tr>
         <td>
